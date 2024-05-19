@@ -1,0 +1,6 @@
+requests
+numpy
+tensorflow
+imageio
+imutils
+opencv-contrib-python
